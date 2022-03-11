@@ -1,0 +1,1 @@
+os comando usados ate aqui foram git clone, mkdir, git status, git commit e cd
